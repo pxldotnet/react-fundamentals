@@ -4,7 +4,6 @@ workspace/
 **/.cache/
 **/build/
 **/public/build
-/playground
 **/tsconfig.tsbuildinfo
 
 # in a real app you'd want to not commit the .env
